@@ -1,3 +1,8 @@
+[![](https://cdn.jsdelivr.net/gh/LuShengbai/CDN@1.2/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%83%AD%E9%97%A8%E8%B5%84%E6%BA%90%E5%AE%9D%E5%BA%93-blue.svg)](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUyNTkyNTUzMA==&mid=2247484265&idx=1&sn=fda2be1cb7a6e5ef4b51e1f8d22aae99&send_time=)
+
+
+
+
 # Python-OpenCv-experiment
 
 python机器视觉学习opencv实验作业
